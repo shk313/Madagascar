@@ -1,4 +1,9 @@
-###Time to each HF###
+######################################################
+####### Time to Health Facilities in Madagascar 
+####### Using Weiss et al Friction surface model
+####################################################
+
+###Time to each HF in madagascar ###
 
 # clear workspace
 rm(list = ls())
